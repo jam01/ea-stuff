@@ -165,7 +165,7 @@
 							<goal>sort</goal>
 						</goals>
 						<phase>verify</phase>
-					</execution
+					</execution>
 				</executions>
 			</plugin>
 		</plugins>
